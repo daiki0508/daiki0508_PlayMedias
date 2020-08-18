@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="app_name">PlayMedias</string>
+    <string name="tb_url">再生したい曲のURLを入力して下さい</string>
+    <string name="tb_list_uri">再生したいプレイリストのURLを入力して下さい</string>
+    <string name="bt_start">再生</string>
+    <string name="bt_anther_start">別タブで再生</string>
+    <string name="bt_reset">リセット</string>
+</resources>
